@@ -1,0 +1,28 @@
+{
+  "name": "rage-gameui",
+  "version": "1.0.0",
+  "description": "Components for RAGEBGC's UI. This is useful for adding new ui for your mod.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WatchDogStudios/RAGEBGC-UI.git"
+  },
+  "keywords": [
+    "game",
+    "coherent-gameface",
+    "ragebgc"
+  ],
+  "author": "WD Studios L.L.C. & Mikael Aboagye",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WatchDogStudios/RAGEBGC-UI/issues"
+  },
+  "homepage": "https://github.com/WatchDogStudios/RAGEBGC-UI#readme",
+  "dependencies": {
+    "coherent-gameface-components": "^3.3.0",
+    "preact": "^10.19.6"
+  }
+}
